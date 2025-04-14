@@ -34,7 +34,7 @@ Perfect for students learning Python, finance basics, or preparing for **GCSE Co
 2. Clone the repository or download the `.py` file.
 3. Open a terminal or IDE and run the script:
 
-   python compound_interest_calculator.py
+   python main.py
 
 ---
 
